@@ -6,9 +6,9 @@ git을 사용하는 이유
 >2. 파일 관리
 >3. 협업
 >4. 버전 관리
-# git의 영역
+ git의 영역
 ---------------
->working directory
->staging area
->repository
+>1. working directory
+>2. staging area
+>3. repository
 git으로 파일
