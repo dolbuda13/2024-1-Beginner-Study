@@ -54,6 +54,7 @@
 >5. Pull Request 만들기
 >6. Merge
 
+과제 링크
 <https://github.com/dolbuda13/2024-1-Beginner-Study/pull/2>
 ---------
 
