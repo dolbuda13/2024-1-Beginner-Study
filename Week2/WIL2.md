@@ -55,7 +55,6 @@
 >6. Merge    
 
 과제 링크
-https://github.com/dolbuda13/2024-1-Beginner-Study/pull/2
 <https://github.com/dolbuda13/2024-1-Beginner-Study/pull/2>
 ---------
 
