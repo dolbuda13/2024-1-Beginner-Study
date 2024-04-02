@@ -53,6 +53,8 @@
 >4. Commit and Push
 >5. Pull Request 만들기
 >6. Merge
-<https://github.com/dolbuda13/2024-1-Beginner-Study/pull/2
+
+<https://github.com/dolbuda13/2024-1-Beginner-Study/pull/2>
+---------
 
 --------
